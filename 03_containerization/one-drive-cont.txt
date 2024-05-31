@@ -1,0 +1,10 @@
+
+	"onCreateCommand": [
+		"poetry", 
+		"install", 
+		"--no-interaction", 
+		"--no-cache", 
+		"--only-root", 
+		"--quiet"
+		"--sync
+	],
